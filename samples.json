@@ -1,0 +1,130 @@
+[
+  {
+    "id": "confident-1",
+    "label": "Confident",
+    "example": 1,
+    "text": "I've reviewed all the data—this is the right decision.",
+    "audio": "audio/confident/confident_0002.wav",
+    "placeholder": false
+  },
+  {
+    "id": "confident-2",
+    "label": "Confident",
+    "example": 2,
+    "text": "I know exactly how to get us back on track.",
+    "audio": "audio/confident/confident_0017.wav",
+    "placeholder": false
+  },
+  {
+    "id": "nervous-1",
+    "label": "Nervous",
+    "example": 1,
+    "text": "Sorry, I just need a moment to collect my thoughts.",
+    "audio": "audio/nervous/nervous_0009.wav",
+    "placeholder": false
+  },
+  {
+    "id": "nervous-2",
+    "label": "Nervous",
+    "example": 2,
+    "text": "Is it working yet…? Can you see my screen?",
+    "audio": "audio/nervous/nervous_0116.wav",
+    "placeholder": false
+  },
+  {
+    "id": "warm-1",
+    "label": "Warm",
+    "example": 1,
+    "text": "It means a lot that you remembered my birthday.",
+    "audio": "audio/warm/warm_0012.wav",
+    "placeholder": false
+  },
+  {
+    "id": "warm-2",
+    "label": "Warm",
+    "example": 2,
+    "text": "You've come such a long way—I'm so glad to see it.",
+    "audio": "audio/warm/warm_0070.wav",
+    "placeholder": false
+  },
+  {
+    "id": "apathetic-1",
+    "label": "Apathetic",
+    "example": 1,
+    "text": "Yeah, I saw the email. I'll get to it.",
+    "audio": "audio/apathetic/apathetic_0001.wav",
+    "placeholder": false
+  },
+  {
+    "id": "apathetic-2",
+    "label": "Apathetic",
+    "example": 2,
+    "text": "It's not like it makes much difference anyway.",
+    "audio": "audio/apathetic/apathetic_0003.wav",
+    "placeholder": false
+  },
+  {
+    "id": "passionate-1",
+    "label": "Passionate",
+    "example": 1,
+    "text": "Music has the power to heal and unite.",
+    "audio": "audio/passionate/passionate_0005.wav",
+    "placeholder": false
+  },
+  {
+    "id": "passionate-2",
+    "label": "Passionate",
+    "example": 2,
+    "text": "Let's proceed with the integration plan.",
+    "audio": "audio/passionate/passionate_0053.wav",
+    "placeholder": false
+  },
+  {
+    "id": "impatient-1",
+    "label": "Impatient",
+    "example": 1,
+    "text": "I need that file before the meeting starts.",
+    "audio": "audio/impatient/impatient_0009.wav",
+    "placeholder": false
+  },
+  {
+    "id": "impatient-2",
+    "label": "Impatient",
+    "example": 2,
+    "text": "We've been stuck on this slide for too long.",
+    "audio": "audio/impatient/impatient_0020.wav",
+    "placeholder": false
+  },
+  {
+    "id": "sarcastic-1",
+    "label": "Sarcastic",
+    "example": 1,
+    "text": "Oh, I love getting emails at 11 PM.",
+    "audio": "audio/sarcastic/sarcastic_0001.wav",
+    "placeholder": false
+  },
+  {
+    "id": "sarcastic-2",
+    "label": "Sarcastic",
+    "example": 2,
+    "text": "Great, the Wi-Fi died during the demo.",
+    "audio": "audio/sarcastic/sarcastic_0005.wav",
+    "placeholder": false
+  },
+  {
+    "id": "neutral-1",
+    "label": "Neutral",
+    "example": 1,
+    "text": "The current temperature is 22 degrees Celsius.",
+    "audio": "audio/neutral/neutral_0001.wav",
+    "placeholder": false
+  },
+  {
+    "id": "neutral-2",
+    "label": "Neutral",
+    "example": 2,
+    "text": "The server is currently online.",
+    "audio": "audio/neutral/neutral_0013.wav",
+    "placeholder": false
+  }
+]
